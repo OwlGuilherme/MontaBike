@@ -1,0 +1,3 @@
+/home/guilherme/Github/MontaBike/build/CMakeFiles/mtb_cli.dir
+/home/guilherme/Github/MontaBike/build/CMakeFiles/edit_cache.dir
+/home/guilherme/Github/MontaBike/build/CMakeFiles/rebuild_cache.dir
